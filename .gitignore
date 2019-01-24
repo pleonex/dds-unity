@@ -35,6 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+.gradle/
 
 # Oculus signature file
 oculussig_*

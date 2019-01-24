@@ -1,5 +1,5 @@
-# dds-vr
-Virtual Reality in Oculus Go and DDS from RTI Connector
+# Unity & DDS
+Unity demo projects with DDS integration.
 
 
 ## How to create a virtual reality application for Oculus Go

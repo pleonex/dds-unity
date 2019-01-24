@@ -38,3 +38,8 @@ sysinfo.txt
 
 # Oculus signature file
 oculussig_*
+
+# Third-party libraries
+RTI.Connext.Connector.dll*
+Newtonsoft.Json.dll*
+librtiddsconnector.so*
